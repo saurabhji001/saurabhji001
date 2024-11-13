@@ -10,11 +10,11 @@ Hi there! I'm Saurabh, a passionate coder with a love for latest tech trends. I 
 
 🚀 Skills--
 
-Programming Languages: Python, JavaScript, Java
+Programming Languages: Python, JavaScript, Java,.........
 
-Frameworks: React, Django, Node.js
+Frameworks: React, Django, Node.js,..........
 
-Tools: Power Bi, Tableau, Azure
+Tools: Power Bi, Tableau, Azure,..........
 
 
 🌐 Projects--
