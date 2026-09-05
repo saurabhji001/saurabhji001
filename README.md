@@ -1,4 +1,4 @@
-# 🚀 Saurabh Kumar - Full-Stack Developer & Tech Innovator
+# 🚀 Saurabh - Full-Stack Developer & Data Analytics Expert
 
 <div align="center">
 
@@ -13,8 +13,9 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║  Hi! I'm Saurabh Kumar 👨‍💻 | Full-Stack Developer                 ║
-║  ✨ Building Digital Experiences | 🎨 Snapchat Lens Developer    ║
+║  Hi! I'm Saurabh 👨‍💻 | Full-Stack Developer                       ║
+║  ✨ Building Digital Experiences | 📊 Data Analytics Expert      ║
+║  🎨 Snapchat Lens Developer | 🐍 Python Specialist              ║
 ║  🔗 Passionate about Web3 & Cloud Technologies                   ║
 ║                                                                   ║
 ║  📍 Location: India | 🌐 Available for Global Opportunities      ║
@@ -30,9 +31,9 @@
 
 <div align="center">
 
-| 💼 **HIRE ME** | 💬 **LET'S CHAT** | 🎮 **PLAY CHESS** | 📊 **VIEW RESUME** |
-|:-:|:-:|:-:|:-:|
-| [![Hire](https://img.shields.io/static/v1?label=📧&message=HIRE+ME&color=FF6B6B&style=for-the-badge&logoColor=white)](mailto:saurabhkumar276141up@gmail.com?subject=Hiring%20Opportunity) | [![Chat](https://img.shields.io/static/v1?label=💭&message=START+CHAT&color=4ECDC4&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/saurabh-ji-412a4a227/) | [![Chess](https://img.shields.io/static/v1?label=♟️&message=PLAY+CHESS&color=FFE66D&style=for-the-badge&logoColor=white)](https://www.chess.com/member/saurabhji001) | [![Resume](https://img.shields.io/static/v1?label=📄&message=VIEW+CV&color=5F27CD&style=for-the-badge&logoColor=white)](mailto:saurabhkumar276141up@gmail.com?subject=CV%20Request) |
+| 💼 **HIRE ME** | 💬 **LET'S CHAT** | 📊 **VIEW RESUME** |
+|:-:|:-:|:-:|
+| [![Hire](https://img.shields.io/static/v1?label=📧&message=HIRE+ME&color=FF6B6B&style=for-the-badge&logoColor=white)](mailto:saurabhkumar276141up@gmail.com?subject=Hiring%20Opportunity) | [![Chat](https://img.shields.io/static/v1?label=💭&message=START+CHAT&color=4ECDC4&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/saurabh-ji-412a4a227/) | [![Resume](https://img.shields.io/static/v1?label=📄&message=VIEW+CV&color=5F27CD&style=for-the-badge&logoColor=white)](mailto:saurabhkumar276141up@gmail.com?subject=CV%20Request) |
 
 </div>
 
@@ -46,18 +47,19 @@
 
 ### 🌟 Who I Am
 
-I'm a **passionate full-stack developer** with expertise in modern web technologies and emerging platforms. With hands-on experience in:
+I'm a **passionate full-stack developer** with deep expertise in data analytics and Python. With hands-on experience in:
 
 ✨ **Web Development** - React, Node.js, Django  
+📊 **Data Analytics** - Python, Power BI, Tableau  
+🐍 **Python Programming** - Advanced data science & automation  
 🎨 **Creative Tech** - Snapchat Lens Development  
-📊 **Data & Analytics** - Python, Power BI, Tableau  
 ☁️ **Cloud & DevOps** - Azure, Docker  
 🔗 **Web3 Integration** - Blockchain concepts  
 
 **Specialties:**
 - Building scalable web applications
+- Advanced data analysis & visualization
 - Creating engaging Snapchat AR experiences
-- Data visualization & BI solutions
 - Cloud-native architecture
 
 </td>
@@ -68,9 +70,10 @@ I'm a **passionate full-stack developer** with expertise in modern web technolog
 | Category | Details |
 |----------|---------|
 | **Experience** | 2+ Years in Full-Stack Development |
-| **Focus** | Web Apps & AR/Lens Technology |
+| **Core Focus** | Python & Data Analytics |
+| **Specialization** | Web Apps, AR/Lens, BI Solutions |
 | **Passion** | Innovation & Problem-Solving |
-| **Learning** | ML, Web3, Advanced Cloud Tech |
+| **Learning** | Advanced ML, Web3, Cloud Tech |
 | **Availability** | Open to Freelance & Full-Time |
 | **Response Time** | Within 24 Hours |
 
@@ -85,6 +88,54 @@ I'm a **passionate full-stack developer** with expertise in modern web technolog
 ---
 
 ## 💻 Tech Stack & Skills
+
+### 🐍 Python & Data Analytics (Core Focus)
+
+<table align="center">
+<tr>
+<td align="center" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+<br/><b>Python</b><br/>
+⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+<br/><b>Pandas</b><br/>
+⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+<br/><b>NumPy</b><br/>
+⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="80px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" width="50" height="50" alt="Scikit-learn"/>
+<br/><b>Scikit-learn</b><br/>
+⭐⭐⭐⭐
+</td>
+<td align="center" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/>
+<br/><b>Matplotlib</b><br/>
+⭐⭐⭐⭐
+</td>
+<td align="center" width="80px">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn"/>
+<br/><b>Seaborn</b><br/>
+⭐⭐⭐⭐
+</td>
+</tr>
+</table>
+
+### 📊 Business Intelligence & Analytics Tools
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Python Analytics](https://img.shields.io/badge/Python%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
 
 ### 🖥️ Frontend Development
 
@@ -128,11 +179,6 @@ I'm a **passionate full-stack developer** with expertise in modern web technolog
 <table align="center">
 <tr>
 <td align="center" width="80px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-<br/><b>Python</b><br/>
-⭐⭐⭐⭐⭐
-</td>
-<td align="center" width="80px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
 <br/><b>Node.js</b><br/>
 ⭐⭐⭐⭐
@@ -157,6 +203,11 @@ I'm a **passionate full-stack developer** with expertise in modern web technolog
 <br/><b>MongoDB</b><br/>
 ⭐⭐⭐⭐
 </td>
+<td align="center" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+<br/><b>PostgreSQL</b><br/>
+⭐⭐⭐⭐
+</td>
 </tr>
 </table>
 
@@ -175,11 +226,6 @@ AR Developer
 App Development
 </td>
 <td align="center" width="80px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
-<br/><b>PostgreSQL</b><br/>
-Database Expert
-</td>
-<td align="center" width="80px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
 <br/><b>Docker</b><br/>
 Containerization
@@ -194,19 +240,13 @@ Version Control
 <br/><b>Azure</b><br/>
 Cloud Platform
 </td>
+<td align="center" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
+<br/><b>Jupyter</b><br/>
+Notebook IDE
+</td>
 </tr>
 </table>
-
-### 📊 Data & Analytics Tools
-
-<div align="center">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-</div>
 
 ---
 
@@ -351,7 +391,6 @@ I'm open to exciting opportunities. Please fill in the details below:
 
 [![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhkumar276141up@gmail.com?subject=Hiring%20Opportunity&body=Hello%20Saurabh,%0A%0AI%20am%20interested%20in%20discussing%20a%20project/opportunity%20with%20you.%0A%0AJob%20Title:%0ABudget:%0ATimeline:%0ATechnology%20Stack:%0A%0LThanks!)
 [![LinkedIn](https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-ji-412a4a227/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/91XXXXXXXXXX)
 
 </div>
 
@@ -362,8 +401,9 @@ I'm open to exciting opportunities. Please fill in the details below:
 ### 📜 Certifications
 
 - ✅ Full-Stack Web Development - Professional Level
+- ✅ Data Analytics & Business Intelligence - Advanced
+- ✅ Python Programming - Expert Level
 - ✅ Android Development Specialization
-- ✅ Data Analytics & Business Intelligence
 - ✅ Cloud Architecture Fundamentals
 - ✅ AR/Lens Development - Snapchat Creator
 
@@ -372,13 +412,13 @@ I'm open to exciting opportunities. Please fill in the details below:
 | **Qualification** | **Field** | **Status** |
 |---|---|---|
 | B.Tech / B.Sc | Computer Science / Information Technology | Completed/Pursuing |
-| Specialized Certifications | Web Dev, Mobile App, Data Science | ✅ Active Learner |
+| Specialized Certifications | Web Dev, Data Analytics, Python | ✅ Active Learner |
 
 ### 💡 Professional Experience
 
 - **2+ Years** - Full-Stack Development
-- **1+ Years** - Snapchat Lens Development  
 - **2+ Years** - Data Analytics & BI Solutions
+- **1+ Years** - Snapchat Lens Development  
 - **Open Source** - Active GitHub Contributor
 
 ---
@@ -396,7 +436,6 @@ I'm open to exciting opportunities. Please fill in the details below:
 | **Snapchat** | AR Lens Creations | [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/saurabh_ji001?share_id=RYOjHu6LnQc&locale=en-IN) |
 | **Instagram** | Daily Updates & Insights | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/saurabh_ji_001?igshid=Yzg5MTU1MDY=) |
 | **Email** | Direct Communication | [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saurabhkumar276141up@gmail.com) |
-| **Chess.com** | Competitive Gaming | [![Chess](https://img.shields.io/badge/Chess-7CB9E8?style=flat-square&logo=chess&logoColor=white)](https://www.chess.com/member/saurabhji001) |
 
 ### 📲 Quick Connect
 
@@ -459,8 +498,9 @@ Your CV has been prepared with comprehensive details including:
 | 📌 | Achievement | Details |
 |---|---|---|
 | 🚀 | **Web Development** | Built 10+ production apps using React & Node.js |
+| 📊 | **Data Analytics** | Delivered 8+ BI dashboards & analytics solutions |
 | 🎨 | **AR Innovation** | Created 5+ trending Snapchat Lenses |
-| 📊 | **Data Solutions** | Delivered BI dashboards for 8+ companies |
+| 🐍 | **Python Expertise** | 100+ Python projects in data science & automation |
 | ⭐ | **GitHub Contributions** | 100+ repositories with 500+ stars |
 | 🤝 | **Open Source** | Active contributor to multiple projects |
 
@@ -477,10 +517,10 @@ Your CV has been prepared with comprehensive details including:
 ### 🎯 Project Types I Work On
 
 ✅ Full-Stack Web Applications  
+✅ Data Analytics & BI Solutions  
+✅ Python Automation Projects  
 ✅ Mobile App Development  
 ✅ Snapchat Lens Creation  
-✅ Data Analytics Solutions  
-✅ Cloud Architecture  
 ✅ API Development  
 ✅ Database Design  
 
@@ -514,6 +554,8 @@ Your CV has been prepared with comprehensive details including:
 ║                                                            ║
 ║  📚 Learning Path:                                        ║
 ║  • Advanced Machine Learning & AI Integration             ║
+║  • Deep Learning with TensorFlow & PyTorch               ║
+║  • Advanced Data Analytics & Statistical Methods          ║
 ║  • Web3 & Blockchain Development                          ║
 ║  • Cloud-Native Architecture (Kubernetes)                 ║
 ║  • Advanced AR/VR Techniques                              ║
@@ -554,10 +596,10 @@ Your CV has been prepared with comprehensive details including:
 ### 🎁 What You Get
 
 📱 Responsive & scalable applications  
+📊 Advanced data insights & analytics  
+🐍 Clean, well-documented Python code  
 🎨 Beautiful, modern UI/UX designs  
-📚 Clean, well-documented code  
 🧪 Comprehensive testing coverage  
-🚀 Fast deployment & performance  
 🛠️ Post-launch support & maintenance  
 
 </td>
@@ -619,5 +661,4 @@ Whether you have a groundbreaking idea, need a developer for your team, or want 
 
 ## 📌 Keywords for Search Engine Optimization
 
-`Full-Stack Developer` `Web Developer` `Android Developer` `Snapchat Lens Developer` `Python Developer` `React Developer` `Node.js` `Machine Learning` `Data Analytics` `BI Solutions` `Cloud Computing` `Azure` `Mobile App Development` `JavaScript` `API Development` `Database Design` `Freelance Developer` `Tech Enthusiast` `Innovation` `Web3` `Blockchain` `SEO Optimized Profile`
-
+`Full-Stack Developer` `Python Developer` `Data Analytics Expert` `Web Developer` `Snapchat Lens Developer` `Node.js` `React Developer` `Machine Learning` `Data Science` `BI Solutions` `Power BI` `Tableau` `Cloud Computing` `Azure` `Mobile App Development` `JavaScript` `API Development` `Database Design` `Freelance Developer` `Tech Enthusiast` `Innovation` `Data Visualization` `Web3` `Blockchain` `SEO Optimized Profile`
