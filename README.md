@@ -469,7 +469,7 @@ Let's talk about opportunities<br/>
 
 ### 📑 Detailed Resume
 
-Your CV has been prepared with comprehensive details including:
+My CV has been prepared with comprehensive details including:
 
 - 🎯 Professional Summary
 - 💼 Work Experience Timeline
