@@ -411,7 +411,7 @@ I'm open to exciting opportunities. Please fill in the details below:
 
 | **Qualification** | **Field** | **Status** |
 |---|---|---|
-| B.Tech  | Computer Science / Information Technology | Completed/Pursuing |
+| B.Tech  | Computer Science / Information Technology | Completed |
 | Specialized Certifications | Web Dev, Data Analytics, Python | ✅ Active Learner |
 
 ### 💡 Professional Experience
