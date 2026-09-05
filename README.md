@@ -4,7 +4,7 @@
 
 ![Profile Banner](https://img.shields.io/badge/Full%20Stack%20Developer-Expert%20Level-blue?style=for-the-badge&logo=github)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-Excellent-brightgreen?style=for-the-badge)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2024-blue?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-blue?style=for-the-badge)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=saurabhji001&style=flat-square&color=0891b2&label=Profile+Views)](https://github.com/saurabhji001)
 [![GitHub Followers](https://img.shields.io/github/followers/saurabhji001?style=flat-square&color=0891b2)](https://github.com/saurabhji001?tab=followers)
@@ -483,7 +483,7 @@ My CV has been prepared with comprehensive details including:
 
 [![Download Full CV](https://img.shields.io/badge/Download%20Full%20CV%20(PDF)-5F27CD?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](mailto:saurabhkumar276141up@gmail.com?subject=CV%20Download%20Request&body=Hello%20Saurabh,%0A%0APlease%20send%20me%20your%20complete%20CV%20document.%0A%0AThank%20you!)
 
-**LinkedIn PDF:** [View My LinkedIn Profile](https://www.linkedin.com/in/saurabh-ji-412a4a227/)
+**LinkedIn Profile:** [View My LinkedIn Profile](https://www.linkedin.com/in/saurabh-ji-412a4a227/)
 
 </div>
 
@@ -653,12 +653,9 @@ Whether you have a groundbreaking idea, need a developer for your team, or want 
 ---
 
 *Last Updated: September 2024*  
-*SEO Optimized | Professional Grade | Ready for Opportunities*
+*Available | Professional Grade | Ready for Opportunities*
 
 </div>
 
 ---
 
-## 📌 Keywords for Search Engine Optimization
-
-`Full-Stack Developer` `Python Developer` `Data Analytics Expert` `Web Developer` `Snapchat Lens Developer` `Node.js` `React Developer` `Machine Learning` `Data Science` `BI Solutions` `Power BI` `Tableau` `Cloud Computing` `Azure` `Mobile App Development` `JavaScript` `API Development` `Database Design` `Freelance Developer` `Tech Enthusiast` `Innovation` `Data Visualization` `Web3` `Blockchain` `SEO Optimized Profile`
